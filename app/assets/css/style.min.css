@@ -1,0 +1,10 @@
+/*!
+ * SimpleBoilerplate
+ * Simple Gulp Bootstrap BoilerPlate
+ * 
+ * @author Jawwad Zafar
+ * @version 1.0.5
+ * Copyright 2017. MIT licensed.
+ */
+.main,body,html{height:100%}.main{background-image:url(../img/gulp.png);background-size:20%;background-position:50%;background-repeat:no-repeat}.main .logo,.main .logo:hover{transition:all 1s ease-in-out 0s}.main .logo:hover{cursor:default;transform:rotate(1turn)}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvX3NlY3Rpb25zLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFHQSxnQkFGRSxXQUFhLENBRWYsQUFnQkMsTUFmQyxzQ0FBcUIsQUFDckIsb0JBQXFCLEFBQ3JCLHdCQUE0QixBQUM1QiwyQkFBNkIsQ0FKL0IsQUFnQkMsOEJBUkcsZ0NBQWtDLENBUnRDLEFBY0Msa0JBSEcsZUFBZ0IsQUFDaEIsdUJBQWlCLENBRXBCIiwiZmlsZSI6InN0eWxlLm1pbi5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5LGh0bWwsLm1haW57XG4gIGhlaWdodDogMTAwJTtcbn1cbi5tYWlue1xuICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoJy4uL2ltZy9ndWxwLnBuZycpO1xuICBiYWNrZ3JvdW5kLXNpemU6IDIwJTtcbiAgYmFja2dyb3VuZC1wb3NpdGlvbjogY2VudGVyO1xuICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xuICBoZWlnaHQ6IDEwMCU7XG4gIC5sb2dve1xuICAgIC8vIHdpZHRoOiAxMDBweDtcbiAgICB0cmFuc2l0aW9uOiBhbGwgMXMgZWFzZS1pbi1vdXQgMHM7XG4gICAgJjpob3Zlclxue1xuICAgIGN1cnNvcjogZGVmYXVsdDtcbiAgICB0cmFuc2Zvcm06IHJvdGF0ZSgzNjBkZWcpO1xuICAgIHRyYW5zaXRpb246IGFsbCAxcyBlYXNlLWluLW91dCAwcztcbn1cbiAgfVxufVxuIl19 */
