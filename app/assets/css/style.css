@@ -1,4 +1,6 @@
-body, html, .main {
+.main,
+body,
+html {
   height: 100%; }
 
 .main {
@@ -8,7 +10,10 @@ body, html, .main {
   background-repeat: no-repeat;
   height: 100%; }
   .main .logo {
-    transition: all 1s ease-in-out 0s; }
+    transition: all 1s ease-in-out 0s;
+    width: 40%;
+    -webkit-filter: sepia(100%) hue-rotate(90deg) saturate(400%);
+            filter: sepia(100%) hue-rotate(90deg) saturate(400%); }
     .main .logo:hover {
       cursor: default;
       -ms-transform: rotate(360deg);

@@ -1,22 +1,26 @@
-body,html,.main{
+.main,
+body,
+html {
   height: 100%;
 }
-.main{
+
+.main {
   background-image: url('../img/gulp.png');
   background-size: 20%;
   background-position: center;
   background-repeat: no-repeat;
   height: 100%;
-  .logo{
+
+  .logo {
     // width: 100px;
     transition: all 1s ease-in-out 0s;
-    &:hover
-    width: 100%;
+    width: 40%;
     filter: sepia(100%) hue-rotate(90deg) saturate(400%);
-{
-    cursor: default;
-    transform: rotate(360deg);
-    transition: all 1s ease-in-out 0s;
-}
+
+    &:hover {
+      cursor: default;
+      transform: rotate(360deg);
+      transition: all 1s ease-in-out 0s;
+    }
   }
 }
