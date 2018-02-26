@@ -16,6 +16,3 @@ License
 ----
 
 MIT
-
-
-**No Copyrights yo! Hell Yeah!**
