@@ -12,8 +12,7 @@ html {
   .main .logo {
     transition: all 1s ease-in-out 0s;
     width: 40%;
-    -webkit-filter: sepia(100%) hue-rotate(90deg) saturate(400%);
-            filter: sepia(100%) hue-rotate(90deg) saturate(400%); }
+    filter: sepia(100%) hue-rotate(90deg) saturate(400%); }
     .main .logo:hover {
       cursor: default;
       -ms-transform: rotate(360deg);

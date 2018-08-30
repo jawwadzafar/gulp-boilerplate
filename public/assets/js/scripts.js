@@ -1,5 +1,5 @@
 /*!
- * GulpBootstrapBoilerplate
+ * gulpbootstrapboilerplate
  * Simple Gulp Bootstrap BoilerPlate
  * 
  * @author Jawwad Zafar

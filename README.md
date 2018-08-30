@@ -1,15 +1,14 @@
 #  SIMPLE GULP BOOTSTRAP BOILERPLATE
-## BY JAWWAD
+##( By Jawwad Z)
 
 Install dependencies
 `npm install`
-or if you like, - `yarn install`
 
-and then run
+run
 
 `gulp`
 
-(make sure gulp is installed globally `npm install -g gulp`)
+(gulp should be installed globally `npm install -g gulp`)
 
 
 License
